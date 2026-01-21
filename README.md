@@ -2,12 +2,6 @@
 <p aling="center"> Site para conferir previsão do tempo em certa cidade
 </p>
 
-<p aling="#-center">
-<p href= "#-tecnologias">Tecnologia</p>
-<p href= "#-projeto">Projeto</p>
-<p href= "#liçença">Liçença</p>
-</p>
-
 <br>
 
 ## 🚀 Tecnologias usadas
