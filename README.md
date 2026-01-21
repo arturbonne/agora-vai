@@ -13,7 +13,7 @@
 Projeto dedicado ao estudo e aprefeicoamento em HTML, CSS e Javascript
 
 ## :memo: Liçença
-Esse projeto está sob a licença arturbonne.
+Esse projeto está sob a licença de arturbonne.
 
 --
 
